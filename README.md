@@ -1,6 +1,5 @@
 ## 📘 README.md – Cypress E2E Testing for SauceDemo
 
-# 🧪 SauceDemo E2E Testing with Cypress
 
 ![Cypress](https://img.shields.io/badge/tested%20with-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/language-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -90,10 +89,9 @@ Choose `login.cy.js` from the Cypress Test Runner interface. The test performs:
 
 ## 📸 Screenshots
 
+![image](https://github.com/user-attachments/assets/ef5b12e2-325f-441a-9dbc-e33db56e5066)
 ![image](https://github.com/user-attachments/assets/88476fb0-9843-4a7c-a6fd-f0eaae4e530a)
 ![image](https://github.com/user-attachments/assets/f2031b0a-574a-4a1b-87d4-58a94c75d2d9)
-![image](https://github.com/user-attachments/assets/ef5b12e2-325f-441a-9dbc-e33db56e5066)
-![image](https://github.com/user-attachments/assets/2c625250-fc38-4f65-9beb-cd8909fd6c3c)
 ![image](https://github.com/user-attachments/assets/31e277cb-4d42-4005-a1f5-b42df4b1f203)
 
 
