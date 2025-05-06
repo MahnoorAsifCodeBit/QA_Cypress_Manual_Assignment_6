@@ -41,7 +41,6 @@ Cypress_Project1/
 ├── cypress.config.js               # ✅ Cypress configuration file
 ├── package.json                    # ✅ Project metadata and dependencies
 
----
 
 ## 📦 Installation
 
