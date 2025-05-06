@@ -29,18 +29,18 @@ This project contains End-to-End (E2E) automated tests for [saucedemo.com](https
 
 ## 📁 Project Structure
 
+
 Cypress_Project1/
 ├── cypress/
-│   ├── e2e/
-│   │   └── login.cy.js             # ✅ Main test file
-│   ├── pages/
-│   │   ├── LoginPage.js            # ✅ POM: Login functionality
-│   │   └── ProductsPage.js         # ✅ POM: Product page elements
-│   └── support/
-│       └── commands.js             # ✅ Custom Cypress commands
-├── cypress.config.js               # ✅ Cypress configuration file
-├── package.json                    # ✅ Project metadata and dependencies
-
+│ ├── e2e/
+│ │ └── login.cy.js # ✅ Main test file
+│ ├── pages/
+│ │ ├── LoginPage.js # ✅ POM: Login functionality
+│ │ └── ProductsPage.js # ✅ POM: Product page elements
+│ └── support/
+│ └── commands.js # ✅ Custom Cypress commands
+├── cypress.config.js # ✅ Cypress configuration file
+├── package.json # ✅ Project metadata and dependencies
 
 ## 📦 Installation
 
